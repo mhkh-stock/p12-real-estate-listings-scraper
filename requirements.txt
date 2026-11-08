@@ -1,0 +1,4 @@
+# P12 — pinned, verified with Python 3.12
+requests==2.31.0
+beautifulsoup4==4.15.0
+openpyxl==3.1.2

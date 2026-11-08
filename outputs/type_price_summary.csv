@@ -1,0 +1,6 @@
+property_type,sale_listings,median_price_usd,avg_price_usd,median_price_per_sqft_usd,avg_days_on_market
+Condo,2,359000.0,359000,410.45,10.5
+Manufactured,1,175000,175000,144.63,8
+Multi Family,1,895000,895000,319.64,40
+Single Family,7,625000,872857.0,327.36,21.4
+Townhouse,1,512000,512000,297.67,4

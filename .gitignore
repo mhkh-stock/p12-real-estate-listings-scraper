@@ -1,0 +1,5 @@
+# Rebuildable artefacts — never uploaded to GitHub
+data/processed/
+data/raw/html/
+__pycache__/
+*.pyc
